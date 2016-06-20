@@ -11,6 +11,8 @@
 - Fresh minty taste.
 
 ## Todo
+- Add vue-router
+- Add vue-resource
 - Add Bourbon + Neat
 - Configure ESLint for AirBnB ES2015
 - Configure as standalone vue-cli template
