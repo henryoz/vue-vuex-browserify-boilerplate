@@ -13,15 +13,16 @@
 ## Todo
 - Add Bourbon + Neat
 - Configure ESLint for AirBnB ES2015
+- Configure as standalone vue-cli template
 
 
 ## Installation Instructions
 ``` bash
-# install vue-cli
-npm install -g vue-cli
+# clone repo
+git clone git@github.com:henryoz/vue-vuex-browserify-boilerplate.git your-project-name
 
-# install directly from the repo
-vue init henryoz/vue-vuex-browserify-boilerplate your-project-name
+# cd into project
+cd your-project-name
 
 # install dependencies
 npm install
