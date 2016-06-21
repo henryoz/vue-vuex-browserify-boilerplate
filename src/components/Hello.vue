@@ -4,6 +4,14 @@
   </div>
 </template>
 
+<style lang="scss">
+  @import '../main';
+  h1 {
+    color: blue;
+    @include transform(scale(0.9) rotate(-3deg));
+  }
+</style>
+
 <script>
 export default {
   data () {
