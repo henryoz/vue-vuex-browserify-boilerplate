@@ -5,13 +5,12 @@ import router from './router'
 import App from './App.vue'
 
 // TODO: figure out a way to ensure this only applies in dev, never prod!
-Vue.config.devtools = true;
+Vue.config.devtools = true
 
 /* eslint-disable no-new */
 sync(store, router)
 
 router.start(App, '#app')
-
 
 // new Vue({
 //   store,

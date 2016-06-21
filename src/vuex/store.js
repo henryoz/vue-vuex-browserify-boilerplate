@@ -7,7 +7,7 @@ Vue.use(Vuex)
 const state = {}
 
 // All possible mutations (actions) that can be applied to the state.
-// Not the best terminology considering we're striving for immutability 
+// Not the best terminology considering we're striving for immutability
 // but it's what the official docs call them!
 const mutations = {}
 
