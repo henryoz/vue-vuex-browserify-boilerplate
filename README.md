@@ -8,6 +8,7 @@
 - Synchronised routes and states via vue/vuex-router-sync
 - node-sass support for more powerful stylesheets.
 - Skeleton Vuex store and actions.
+- Bourbon mixins &amp; Neat grid available in all component stylesheets / tags.
 - JS unit tests via Karma (might swap out for Mocha / Chai but this is worth a try first).
 - Fresh minty taste.
 
