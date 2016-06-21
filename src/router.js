@@ -6,12 +6,14 @@ Vue.use(VueRouter)
 
 var router = new VueRouter()
 
+// Specify new routes
 router.map({
   '/hello': {
     component: Hello
   }
 })
 
+// Handle default routing
 router.redirect({
   '*': '/hello'
 })
