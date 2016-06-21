@@ -3,7 +3,7 @@
 > A Vue.js scaffold. Made by henryoz
 
 ## Features
-- Full ES2015 support within components.
+- Full ES2015 support.
 - Vueify support for both all-in-one components and separated script, template, and style partials.
 - Synchronised routes and states via vue/vuex-router-sync
 - node-sass support for more powerful stylesheets.
