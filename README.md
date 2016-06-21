@@ -46,4 +46,8 @@ npm run lint
 npm test
 ```
 
-For more information see the [docs for vueify](https://github.com/vuejs/vueify).
+## Resources
+- [Vuex](http://vuex.vuejs.org/en/intro.html) - centralised state management architecture for Vue
+- [Vueify](https://github.com/vuejs/vueify) - .vue file support and partial management
+- [vue-router](http://router.vuejs.org/en/index.html) - app routing for Vue
+- [veux-router-sync](https://github.com/vuejs/vuex-router-sync) - keeps the router in sync with the vuex store
