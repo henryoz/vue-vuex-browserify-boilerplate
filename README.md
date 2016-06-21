@@ -5,13 +5,13 @@
 ## Features
 - Full ES2015 support within components.
 - Vueify support for both all-in-one components and separated script, template, and style partials.
+- Synchronised routes and states via vue/vuex-router-sync
 - node-sass support for more powerful stylesheets.
 - Skeleton Vuex store and actions.
 - JS unit tests via Karma (might swap out for Mocha / Chai but this is worth a try first).
 - Fresh minty taste.
 
 ## Todo
-- Add vue-router
 - Add vue-resource
 - Add Bourbon + Neat
 - Configure ESLint for AirBnB ES2015
