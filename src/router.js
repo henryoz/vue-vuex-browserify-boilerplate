@@ -1,11 +1,11 @@
-import Hello from './components/Hello.vue';
 import Vue from 'vue';
 import VueRouter from 'vue-router';
 
-var router = new VueRouter();
-
+import Hello from './components/Hello.vue';
 
 Vue.use(VueRouter);
+
+const router = new VueRouter();
 
 // Specify new routes
 router.map({
