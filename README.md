@@ -3,7 +3,7 @@
 > A Vue.js scaffold. Made by henryoz
 
 ## Features
-- Full ES2015 support.
+- Full ES2015 support with linting for [AirBnB JavaScript style guide](https://github.com/airbnb/javascript).
 - Vueify support for both all-in-one components and separated script, template, and style partials.
 - Synchronised routes and states via vue/vuex-router-sync
 - vue-resource for easy XHR.
@@ -14,7 +14,6 @@
 - Fresh minty taste.
 
 ## Todo
-- Configure ESLint for AirBnB ES2015
 - Configure as standalone vue-cli template
 
 
