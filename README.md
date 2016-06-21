@@ -1,6 +1,6 @@
 # vue-vuex-browserify-boilerplate
 
-> A Vue.js scaffold. Made by henryoz
+> A Vue.js scaffold. Made by henryoz. Available as a [vue-cli template](https://github.com/henryoz/simitive-vue).
 
 ## Features
 - Full ES2015 support with linting for <a href="https://github.com/airbnb/javascript" target="_blank">AirBnB JavaScript style guide</a>.
