@@ -17,10 +17,13 @@
 ``` bash
 # install vue-cli
 npm install -g vue-cli
+
 # initialise the project using the template repo
 vue init henryoz/simitive-vue your-project-name
+
 # cd into the project
 cd your-project-name
+
 #install dependencies
 npm install
 ```
