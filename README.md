@@ -6,6 +6,7 @@
 - Full ES2015 support.
 - Vueify support for both all-in-one components and separated script, template, and style partials.
 - Synchronised routes and states via vue/vuex-router-sync
+- vue-resource for easy XHR.
 - node-sass support for more powerful stylesheets.
 - Skeleton Vuex store and actions.
 - Bourbon mixins &amp; Neat grid available in all component stylesheets / tags.
@@ -13,7 +14,6 @@
 - Fresh minty taste.
 
 ## Todo
-- Add vue-resource
 - Configure ESLint for AirBnB ES2015
 - Configure as standalone vue-cli template
 
