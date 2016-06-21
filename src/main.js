@@ -1,19 +1,19 @@
-import Vue from 'vue'
-import VueResource from 'vue-resource'
-import store from './vuex/store'
-import { sync } from 'vuex-router-sync'
-import router from './router'
-import App from './App.vue'
+import Vue from 'vue';
+import VueResource from 'vue-resource';
+import store from './vuex/store';
+import { sync } from 'vuex-router-sync';
+import router from './router';
+import App from './App.vue';
 
 // TODO: figure out a way to ensure this only applies in dev, never prod!
-Vue.config.devtools = true
+Vue.config.devtools = true;
 
-Vue.use(VueResource)
+Vue.use(VueResource);
 
 /* eslint-disable no-new */
-sync(store, router)
+sync(store, router);
 
-router.start(App, '#app')
+router.start(App, '#app');
 
 // new Vue({
 //   store,
