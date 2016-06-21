@@ -13,19 +13,15 @@
 - JS unit tests via Karma (might swap out for Mocha / Chai but this is worth a try first).
 - Fresh minty taste.
 
-## Todo
-- Configure as standalone vue-cli template
-
-
 ## Installation Instructions
 ``` bash
-# clone repo
-git clone git@github.com:henryoz/vue-vuex-browserify-boilerplate.git your-project-name
-
-# cd into project
+# install vue-cli
+npm install -g vue-cli
+# initialise the project using the template repo
+vue init henryoz/simitive-vue your-project-name
+# cd into the project
 cd your-project-name
-
-# install dependencies
+#install dependencies
 npm install
 ```
 
