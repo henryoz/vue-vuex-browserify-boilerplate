@@ -3,7 +3,7 @@
 > A Vue.js scaffold. Made by henryoz
 
 ## Features
-- Full ES2015 support with linting for [AirBnB JavaScript style guide](https://github.com/airbnb/javascript).
+- Full ES2015 support with linting for <a href="https://github.com/airbnb/javascript" target="_blank">AirBnB JavaScript style guide</a>.
 - Vueify support for both all-in-one components and separated script, template, and style partials.
 - Synchronised routes and states via vue/vuex-router-sync
 - vue-resource for easy XHR.
@@ -46,9 +46,10 @@ npm test
 ```
 
 ## Resources
-- [Vuex](http://vuex.vuejs.org/en/intro.html): centralised state management architecture for Vue
-- [Vueify](https://github.com/vuejs/vueify): .vue file support and partial management
-- [vue-router](http://router.vuejs.org/en/index.html): app routing for Vue
-- [veux-router-sync](https://github.com/vuejs/vuex-router-sync): keeps the router in sync with the vuex store
-- [Bourbon](http://bourbon.io/docs/): Bourbon mixin library. Check before trying to do anything even vaguely fancy with css!
-- [Neat](http://thoughtbot.github.io/neat-docs/latest/): Neat grid usage.
+- <a href="http://vuex.vuejs.org/en/intro.html" target="_blank">Vuex</a>: centralised state management architecture for Vue.
+- <a href="https://github.com/vuejs/vueify" target="_blank">Vueify</a>: .vue file support and partial management.
+- <a href="http://router.vuejs.org/en/index.html" target="_blank">vue-router</a>: app routing for Vue.
+- <a href="https://github.com/vuejs/vuex-router-sync" target="_blank">veux-router-sync</a>: keeps the router in sync with the vuex store.
+- <a href="https://github.com/vuejs/vue-resource" target="_blank">vue-resource</a>: XHR / JSONP web request and response handling for Vue.
+- <a href="http://bourbon.io/docs/" target="_blank">Bourbon</a>: Bourbon mixin library. Check before trying to do anything even vaguely fancy with css!
+- <a href="http://thoughtbot.github.io/neat-docs/latest/" target="_blank">Neat</a>: Neat grid usage.
