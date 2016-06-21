@@ -13,7 +13,6 @@
 
 ## Todo
 - Add vue-resource
-- Add Bourbon + Neat
 - Configure ESLint for AirBnB ES2015
 - Configure as standalone vue-cli template
 
@@ -47,7 +46,9 @@ npm test
 ```
 
 ## Resources
-- [Vuex](http://vuex.vuejs.org/en/intro.html) - centralised state management architecture for Vue
-- [Vueify](https://github.com/vuejs/vueify) - .vue file support and partial management
-- [vue-router](http://router.vuejs.org/en/index.html) - app routing for Vue
-- [veux-router-sync](https://github.com/vuejs/vuex-router-sync) - keeps the router in sync with the vuex store
+- [Vuex](http://vuex.vuejs.org/en/intro.html): centralised state management architecture for Vue
+- [Vueify](https://github.com/vuejs/vueify): .vue file support and partial management
+- [vue-router](http://router.vuejs.org/en/index.html): app routing for Vue
+- [veux-router-sync](https://github.com/vuejs/vuex-router-sync): keeps the router in sync with the vuex store
+- [Bourbon](http://bourbon.io/docs/): Bourbon mixin library. Check before trying to do anything even vaguely fancy with css!
+- [Neat](http://thoughtbot.github.io/neat-docs/latest/): Neat grid usage.
